@@ -2,14 +2,11 @@
 Jonathan Calderaro
 
 ## Who I am in three words
-Enthusiastic. Coder. Geek.
+Inquisitive. Methodical. Skittish.
 
 ## My passion
 
-
-Write a few sentences or a paragraph about your favorite hobby, your favorite animal, or another personal favorite suitable for sharing on a public site.
-After writing, add your file to your project, commit, and push to your repository.
-Create a pull request back to the original LambdaSchool repository.
-Finish by adding a comment to your pull request. Call out your Project Manager by GitHub user-id (for example @MyPM, using a real GitHub account name) and mention the phrase "Core Hello Challenge".
-
-
+My favorite hobby is a mix between indoor and outdoor activities. When I'm inside, especially on a rainy day, I'll be playing video games. 
+Currently I only practice Super Smash Brother's Melee, however up until this year I had been coaching in League of Legends. On sunny days,
+going on hikes and taking in the view or just a small walk around town is nice. Probably my favorite spot lately was a local Cat Cafe in San Fransisco, 
+I had such a fun time going I may make it a frequent adventure. 
